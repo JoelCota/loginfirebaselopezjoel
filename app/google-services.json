@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "383931802867",
+    "project_id": "loginfirebaselopezjoel",
+    "storage_bucket": "loginfirebaselopezjoel.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383931802867:android:5474bd065b3a2f98068386",
+        "android_client_info": {
+          "package_name": "lopez.joel.loginfirebaselopezjoel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXZXZmfk9hWB1xgTqiM_rJMdGbliF8ctg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
